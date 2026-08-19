@@ -17,7 +17,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shelby457&base=500&color=06B6D4&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <a href="https://codolio.com/profile/Aadarsh4726" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Questions%20Solved-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Codolio Solved Questions" />
+  </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shelby457.shelby457&left_color=0b0f19&right_color=06b6d4&left_text=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
 <br/>
@@ -29,6 +33,7 @@ interface Developer {
   name: "Aadarsh Pratap";
   role: "Full-Stack & Software Engineer";
   coreStack: ["Java", "Go", "JavaScript", "HTML/CSS", "Node.js", "Python", "SQL"];
+  dsaProfile: "https://codolio.com/profile/Aadarsh4726";
   focus: "Web Applications · Database Systems · Data Structures & Algorithms";
   currentlyBuilding: "Full-Stack Web Projects & System Architecture";
   engineeringValues: "Clean Code · Efficient Algorithms · Scalable Software ⚡";
@@ -45,6 +50,20 @@ interface Developer {
 | 📷 **[Gesture Control](https://github.com/shelby457/gesture-control)** | Computer vision gesture recognition script powered by OpenCV for real-time webcam feed capturing & processing | Python · OpenCV | [View Code](https://github.com/shelby457/gesture-control) |
 | 💳 **[Loan Management System](https://github.com/shelby457/loan_managemnt_)** | Comprehensive financial tracking and loan record management platform with calculated metrics and data persistence | Web Tech · Database | [View Code](https://github.com/shelby457/loan_managemnt_) |
 | 📚 **[Library Management System](https://github.com/shelby457/library-management)** | Digital book cataloging and borrowing tracking system built for structured inventory operations | Java / Web Stack | [View Code](https://github.com/shelby457/library-management) |
+
+---
+
+## 🧩 Problem Solving & DSA Progress
+
+<p align="center">
+  <a href="https://codolio.com/profile/Aadarsh4726" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-View%20Questions%20Solved%20%26%20DSA%20Analytics-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Codolio Questions Solved" />
+  </a>
+</p>
+
+<p align="center">
+  Track my live competitive programming stats, problem-solving streak, and solved questions across coding platforms on <b><a href="https://codolio.com/profile/Aadarsh4726" target="_blank">Codolio (@Aadarsh4726)</a></b>.
+</p>
 
 ---
 
