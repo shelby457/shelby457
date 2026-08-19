@@ -28,7 +28,7 @@
 interface Developer {
   name: "Aadarsh Pratap";
   role: "Full-Stack & Software Engineer";
-  coreStack: ["Java", "JavaScript", "HTML/CSS", "Node.js", "Python", "SQL"];
+  coreStack: ["Java", "Go", "JavaScript", "HTML/CSS", "Node.js", "Python", "SQL"];
   focus: "Web Applications · Database Systems · Data Structures & Algorithms";
   currentlyBuilding: "Full-Stack Web Projects & System Architecture";
   engineeringValues: "Clean Code · Efficient Algorithms · Scalable Software ⚡";
@@ -53,6 +53,7 @@ interface Developer {
 ### 💻 Core Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,7 +64,6 @@ interface Developer {
 
 ### 🧠 Frameworks & Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
