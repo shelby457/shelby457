@@ -20,8 +20,6 @@
   <a href="https://codolio.com/profile/Aadarsh4726" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-Questions%20Solved-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white" alt="Codolio Solved Questions" />
   </a>
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shelby457.shelby457&left_color=0b0f19&right_color=06b6d4&left_text=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
 <br/>
